@@ -1,22 +1,22 @@
-#Data-Science-Bootcamp Task 1
-#Factorial
+# Data-Science-Bootcamp Task 1
+# Factorial
 - Take an input n.
 - Multiply all numbers from 1 to n to calculate the factorial.
 - Return the result.
-#Count Vowels
+# Count Vowels
 - Take an input string s.
 - Define a variable vowels containing "aeiouAEIOU".
 - Count each character in s that exists in vowels.
 - Return the total count.
-#Largest Number in a List
-#Input a list of numbers.
+# Largest Number in a List
+- Input a list of numbers.
 - Use the built-in max() function to find the largest number.
 - Return the maximum value.
-#Reverse String
+# Reverse String
 - Input a string s.
 - Use slicing [::-1] to reverse the string.
 - Return the reversed string.
-#Fibonacci Sequence
+# Fibonacci Sequence
 - Input the first term, second term, and the number of terms required.
 - Generate the sequence by adding the two previous terms to get the next term.
 - Return the full sequence.
